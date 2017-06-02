@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1496381853 source:e:\c progra\practica\main.cpp
+	<iostream>
+	"persona.h"
+	"gerente.h"
+	"conserje.h"
+	"cumple.h"
+
+1496385726 source:e:\c progra\practica\src\persona.cpp
+	"persona.h"
+	"cumple.h"
+	<string>
+	<iostream>
+
+1496385659 e:\c progra\practica\include\persona.h
+	<string>
+	<stdlib.h>
+	"cumple.h"
+	<iostream>
+
+1496385303 source:e:\c progra\practica\src\gerente.cpp
+	<iostream>
+	"gerente.h"
+	"cumple.h"
+
+1496384243 e:\c progra\practica\include\gerente.h
+	"persona.h"
+	"cumple.h"
+
+1496384243 e:\c progra\practica\include\conserje.h
+	"persona.h"
+	"cumple.h"
+
+1496385264 source:e:\c progra\practica\src\conserje.cpp
+	<iostream>
+	"conserje.h"
+	"persona.h"
+	"cumple.h"
+
+1496383044 e:\c progra\practica\include\cumple.h
+	<iostream>
+
+1496383125 source:e:\c progra\practica\src\cumple.cpp
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica\main.cpp
+	<iostream>
+	"persona.h"
+	"gerente.h"
+	"conserje.h"
+	"cumple.h"
+
+1496424531 d:\practicanuevo\ccomp100\practica\include\persona.h
+	<string>
+	<stdlib.h>
+	"cumple.h"
+	<iostream>
+
+1496423562 d:\practicanuevo\ccomp100\practica\include\cumple.h
+	<iostream>
+
+1496423562 d:\practicanuevo\ccomp100\practica\include\gerente.h
+	"persona.h"
+	"cumple.h"
+
+1496423562 d:\practicanuevo\ccomp100\practica\include\conserje.h
+	"persona.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica\src\conserje.cpp
+	<iostream>
+	"conserje.h"
+	"persona.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica\src\cumple.cpp
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica\src\gerente.cpp
+	<iostream>
+	"gerente.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica\src\persona.cpp
+	"persona.h"
+	"cumple.h"
+	<string>
+	<iostream>
+
+1496423562 source:d:\practicanuevo\ccomp100\practica1\main.cpp
+	<iostream>
+	"persona.h"
+	"gerente.h"
+	"conserje.h"
+	"cumple.h"
+
+1496424531 d:\practicanuevo\ccomp100\practica1\include\persona.h
+	<string>
+	<stdlib.h>
+	"cumple.h"
+	<iostream>
+
+1496423562 d:\practicanuevo\ccomp100\practica1\include\cumple.h
+	<iostream>
+
+1496423562 d:\practicanuevo\ccomp100\practica1\include\gerente.h
+	"persona.h"
+	"cumple.h"
+
+1496423562 d:\practicanuevo\ccomp100\practica1\include\conserje.h
+	"persona.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica1\src\conserje.cpp
+	<iostream>
+	"conserje.h"
+	"persona.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica1\src\cumple.cpp
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica1\src\gerente.cpp
+	<iostream>
+	"gerente.h"
+	"cumple.h"
+
+1496423562 source:d:\practicanuevo\ccomp100\practica1\src\persona.cpp
+	"persona.h"
+	"cumple.h"
+	<string>
+	<iostream>
+
